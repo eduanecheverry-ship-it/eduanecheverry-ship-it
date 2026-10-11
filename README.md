@@ -1,4 +1,4 @@
-# Hola, soy [Tu nombre] 👋
+# Hola, soy Eduan 👋
 
 📊 Analista de operaciones retail en **Cali, Colombia**.
 Me gusta convertir lo que pasa en el punto de venta en datos que ayuden a decidir.
@@ -22,5 +22,5 @@ exportación a Excel y modo offline.
 Análisis de datos, desarrollo web y despliegue en la nube.
 
 ## 📫 Contacto
-- LinkedIn: [tu-enlace]
-- Correo: [tu-correo]
+- LinkedIn: https://www.linkedin.com/in/eduan-alberto-echeverri-yepes-b5a62723/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BD%2BgPO%2BuLTA6zL4ySEJg2hQ%3D%3D
+- Correo: eduanecheverry@gmail.com
